@@ -1,4 +1,5 @@
-# Maintainer: Nicolas Narvaez <nicomix1006@gmail.com>
+# Maintainer: ZicStardust
+# Contributor: Nicolas Narvaez <nicomix1006@gmail.com>
 # Contributor: EsauPR
 # Contributor: bittin
 
