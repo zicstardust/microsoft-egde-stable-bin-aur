@@ -1,6 +1,6 @@
-#Browser Microsoft Edge Stable Arch AUR updated
+# Browser Microsoft Edge Stable Arch AUR updated
 
-#install
+# install
 
 ```git clone https://github.com/zicstardust/microsoft-egde-stable-bin-aur```
 
